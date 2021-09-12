@@ -1,0 +1,5 @@
+map_name: pacific
+games:
+- game_name: Pacific-Beta
+  file_name: pacific.xml
+version: 0
